@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Dennn</string>
+    <string name="pass_length_less_then_8">pass_length_less_then_8</string>
+    <string name="email_not_valid">email_not_valid</string>
+</resources>
